@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;  
-    background: url("https://drive.google.com/uc?export=view&id=1xvtaIRUG_QFhljHLy_VsA9WVPrYoOTeh") no-repeat center;
+    background: url("https://raw.githubusercontent.com/SRIDHARAN4999/sridharan07/main/bg.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
